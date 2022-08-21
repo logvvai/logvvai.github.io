@@ -39,8 +39,8 @@ article {
   height: auto;
   color: #161616;
   padding-top: 1px;
-  padding-left: 2%;
-  padding-right: 2%;
+  padding-left: 2.5%;
+  padding-right: 2.5%;
   padding-bottom: 5px;
 }
 
@@ -76,14 +76,14 @@ footer a:hover {
 .list {
   font-size: 1.2em;
   font-family: 'RIDIBatang', 'Noto Serif KR','Helvetica Neue','Apple SD Gothic Neo', sans-serif;
-  line-height : 1em;
+  line-height : 1.5;
   margin: auto;
   max-width: 670px;
   height: auto;
   color: #161616;
   padding-top: 5px;
-  padding-left: 2%;
-  padding-right: 2%;
+  padding-left: 2.5%;
+  padding-right: 2.5%;
   padding-bottom: 5px;
 }
 
